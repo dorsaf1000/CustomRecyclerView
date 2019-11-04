@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomRecyclerView</string>
+    <string name="text_description">Office356</string>
+    <string name="image_description">ImageView</string>
+</resources>
